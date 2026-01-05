@@ -94,8 +94,8 @@
 ###  🗂️ Project Structure
 <pre>
 TECH-BAZAR/
-├── app/            # Controllers, Models, Middleware<br>
-├── resources/      # Views & frontend assets<br>
+├── app/            # Controllers, Models, Middleware
+├── resources/      # Views & frontend assets
 ├── routes/         # Web & API routes<br>
 ├── database/       # Migrations & seeders<br>
 ├── public/         # Public files<br>
