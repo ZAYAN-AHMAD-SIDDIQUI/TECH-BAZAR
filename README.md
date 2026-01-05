@@ -91,7 +91,7 @@
 - Shipping rate configuration
 - Detailed admin reports
 
-###  🗂️ Project Structure
+#  🗂️ Project Structure
 <pre>
 TECH-BAZAR/
 ├── app/            # Controllers, Models, Middleware
