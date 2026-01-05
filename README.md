@@ -92,11 +92,12 @@
 - Detailed admin reports
 
 ###  🗂️ Project Structure
-
+<pre>
 TECH-BAZAR/
-├── app/            # Controllers, Models, Middleware
-├── resources/      # Views & frontend assets
-├── routes/         # Web & API routes
-├── database/       # Migrations & seeders
-├── public/         # Public files
-└── tests/          # Application tests
+├── app/            # Controllers, Models, Middleware<br>
+├── resources/      # Views & frontend assets<br>
+├── routes/         # Web & API routes<br>
+├── database/       # Migrations & seeders<br>
+├── public/         # Public files<br>
+└── tests/          # Application tests<br>
+</pre>
