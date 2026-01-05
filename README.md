@@ -27,8 +27,6 @@
 - [Overview](#-overview)
 - [Key Features](#-key-features)
 - [Admin Features](#-admin-features)
-- [How to Run the Project](#-how-to-run-the-project)
-- [Testing](#-testing)
 - [Project Structure](#-project-structure)
 - [License](#-license)
 
@@ -93,18 +91,12 @@
 - Shipping rate configuration
 - Detailed admin reports
 
----
+###  🗂️ Project Structure
 
-## ▶️ How to Run the Project
-
-Follow the steps below to set up and run **TECH-BAZAR** locally.
-
----
-
-## 📦 Step 2: Install Dependencies
-
-```bash
-composer install
-
-```bash
-composer install
+TECH-BAZAR/
+├── app/            # Controllers, Models, Middleware
+├── resources/      # Views & frontend assets
+├── routes/         # Web & API routes
+├── database/       # Migrations & seeders
+├── public/         # Public files
+└── tests/          # Application tests
